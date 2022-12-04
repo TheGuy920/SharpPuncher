@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP Hole Punching Implementation", "UDP Hole Punching Implementation\UDP Hole Punching Implementation.csproj", "{D854BB5A-2B62-49DF-A0A4-E518E027E12C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpPuncher", "SharpPuncher\SharpPuncher.csproj", "{D854BB5A-2B62-49DF-A0A4-E518E027E12C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
